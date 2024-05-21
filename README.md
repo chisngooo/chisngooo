@@ -1,5 +1,5 @@
 ## Hi there 👋
-## |NGO MINH TRI|                                                     
+# |NGO MINH TRI|                                                     
 <br>🎓 Artificial Intelligence          <br>🏢 University of Information Technology<br>A young, curious and passionate Artificial Intelligence freshman.<br>My approach revolves around three core principles: Passion, Dedication, and Perfectionism.
 
 
