@@ -1,6 +1,6 @@
 ## Hi there 👋
-# |     NGO MINH TRI     |                                                     
-<br>🎓 Artificial Intelligence          <br>🏢 University of Information Technology<br>A young, curious and passionate Artificial Intelligence freshman.<br>My approach revolves around three core principles: Passion, Dedication, and Perfectionism.
+# 💫 About Me:
+| NGO MINH TRI |                                                    <br>🎓 Artificial Intelligence          <br>🏢 University of Information Technology<br>A young, curious and passionate Artificial Intelligence freshman.<br>My approach revolves around three core principles: Passion, Dedication, and Perfectionism.
 
 
 # 💻 Languages:
@@ -9,4 +9,3 @@
 ![](https://github-readme-stats.vercel.app/api?username=chisngooo&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=chisngooo&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=chisngooo&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
-
